@@ -23,7 +23,7 @@ My recent work centers on the question of how perception systems can remain reli
 Selected Work
 ======
 **Hierarchical Insights: Exploiting Structural Similarities for Reliable 3D Semantic Segmentation**  
-Accepted at DAGM GCPR 2025. This work studies how hierarchical semantic structure can improve the reliability and interpretability of 3D semantic segmentation. [Paper]({{ base_path }}/publication/hierarchical-insights-exploiting-structural-similarities-for-reliable-3d-semantic-segmentation)
+Published at DAGM GCPR 2025. This work studies how hierarchical semantic structure can improve the reliability and interpretability of 3D semantic segmentation. [Paper]({{ base_path }}/publication/hierarchical-insights-exploiting-structural-similarities-for-reliable-3d-semantic-segmentation)
 
 **On the Calibration of Uncertainty Estimation in LiDAR-Based Semantic Segmentation**  
 Published at IEEE ITSC 2023. This paper analyzes whether confidence estimates in LiDAR-based semantic segmentation are actually trustworthy and how calibration quality can be evaluated more carefully. [Paper]({{ base_path }}/publication/on-the-calibration-of-uncertainty-estimation-in-lidar-based-semantic-segmentation)
