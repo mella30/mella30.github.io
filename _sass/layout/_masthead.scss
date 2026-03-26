@@ -66,6 +66,17 @@
   }
 }
 
+.site-title-link {
+  display: inline-flex;
+  align-items: center;
+}
+
+.site-title-image {
+  display: block;
+  max-height: 2.75rem;
+  width: auto;
+}
+
 .masthead__menu-item.selected a {
   color: var(--global-text-color);
   font-weight: 700;

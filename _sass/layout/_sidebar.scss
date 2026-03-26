@@ -200,12 +200,9 @@
 }
 
 .author__pronouns {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
+  font-style: italic;
+  font-weight: 400;
+  white-space: nowrap;
 }
 
 .author__bio {
