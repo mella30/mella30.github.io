@@ -11,67 +11,33 @@ redirect_from:
 
 Education
 ======
-* Dr.-Ing. in Computer Science, University of Freiburg, since March 2021
-  * Working title: Domain Robustness in Deep Learning for LiDAR-based Environment Perception
-
-* M.Sc. in Media Informatics, University of Tuebingen, October 2016 - May 2020
-  * Focus on image processing, machine learning, and human-computer interaction
-  * Master's thesis: Driver State Classification Based on the k-NN Algorithm
-  * Grade: 1.7
-
-* M.Sc. in Cognitive Science, University of Tuebingen, October 2015 - September 2016
-  * Focus on computational cognitive modeling, neuroscience, and psychology
-  * No degree completed
-
-* B.Sc. in Sensors and Cognitive Psychology, Technical University of Chemnitz, October 2012 - September 2015
-  * Focus on experimental physics, cognitive psychology, and computer science
-  * Bachelor's thesis: Revealing the impairments of thalamic lesions using automatic parameter tuning for a neurocomputational model
-  * Grade: 2.5
+* **Dr.-Ing. Computer Science**, University of Freiburg, since 2021 - **Deep Learning, LiDAR Perception**
+* **M.Sc. Media Informatics**, University of Tuebingen, 2016-2020 - **Image Processing, Machine Learning, HCI**
+* **M.Sc. Cognitive Science**, University of Tuebingen, 2015-2016 - **Computational Modeling, Neuroscience** (no degree)
+* **B.Sc. Sensors & Cognitive Psychology**, TU Chemnitz, 2012-2015 - **Physics, Psychology, Computer Science**
 
 Work Experience
 ======
-* Computer Scientist & Researcher, TWT GmbH, Stuttgart, February 2025 - June 2025
-  * AI and computer vision in robotics
-  * Development of in-house AI products
-  * Writing research proposals for national and international funding applications
-
-* PhD Student, Mercedes-Benz AG, Stuttgart / Sindelfingen, July 2020 - January 2025
-  * Perception & Maps / Active Perception
-  * Robust and scalable LiDAR-based environment perception
-  * Main topics: uncertainty estimation, novelty detection, anomaly detection, adverse weather robustness, geospatial domain shifts
-
-* Master Student, Mercedes-Benz AG, Sindelfingen, November 2019 - April 2020
-  * Assistance Systems and Active Safety / Driver Behavior Functions
-  * Machine learning-based driver state classification based on eye closure
-
-* Working Student / Intern, Daimler AG / Mercedes-Benz AG, Sindelfingen, January 2017 - October 2019
-  * Research on reference measurement systems for the driver camera
-  * Prototypical development of novel infotainment functions and UI development
-  * Systematic test case creation for parking functions and benchmark tests
-  * Research on fatigue and reaction times in prolonged highly automated driving
-
-* Bachelor Student, Technical University of Chemnitz, Chemnitz, August 2015 - December 2015
-  * Institute for Computer Science, Chair for Artificial Intelligence
-  * Automated parameter tuning for a neurocomputational model
-
-* Intern, Technical University of Chemnitz, Chemnitz, January 2015 - May 2015
-  * Institute for Physics, Chair for Theoretical Physics and Computer Physics
-  * Research and use-case demonstration of artificial neural networks
-
-* Research Assistant, Technical University of Chemnitz, Chemnitz, July 2013 - December 2013
-  * Institute for Psychology, Chair for Industrial Psychology
-  * Research on social acceptance of electric vehicles
+* **Computer Scientist & Researcher**, TWT GmbH, Stuttgart, 2025 - **AI, Robotics, Computer Vision**
+* **PhD Student**, Mercedes-Benz AG, Stuttgart/Sindelfingen, 2020-2025 - **LiDAR Perception, Uncertainty Estimation, Robustness**
+* **Master Student**, Mercedes-Benz AG, Sindelfingen, 2019-2020 - **Driver State Classification, Machine Learning**
+* **Working Student/Intern**, Daimler/Mercedes-Benz AG, Sindelfingen, 2017-2019 - **Driver Camera Research, Infotainment, Automated Driving**
+* **Bachelor Student**, TU Chemnitz, Chemnitz, 2015 - **AI, Neurocomputational Modeling**
+* **Intern**, TU Chemnitz, Chemnitz, 2015 - **Neural Networks, Physics**
+* **Research Assistant**, TU Chemnitz, Chemnitz, 2013 - **Psychology, Electric Vehicles**
 
 Skills
 ======
-* Programming and ML: Python, C#, PyTorch, TensorFlow 2, data science workflows
-* Research and engineering tools: Docker, Linux, Git, LaTeX, Atlassian Suite
-* Research profile: deep learning, LiDAR perception, uncertainty estimation, robustness, interpretability
+* **Programming and ML:** Python, C#, PyTorch, TensorFlow 2, scikit-learn, OpenCV, data science workflows, machine learning pipelines
+* **Research and Engineering Tools:** Docker, Linux, Git, LaTeX, Atlassian Suite (Jira, Confluence)
+* **Research Profile:** Deep Learning, LiDAR Perception, Uncertainty Estimation, Robustness, Interpretability, Domain Adaptation
+* **Soft Skills:** Team Collaboration, Problem-Solving, Adaptability, Leadership, Mentoring
+* **Process Knowledge:** Agile Methodologies (Scrum, Kanban), Project Management, Code Review, Research Proposal Writing, Funding Applications
 
 Languages
 ======
-* German: Native (C2)
-* English: Fluent (C1)
+* **German**: Native (C2)
+* **English**: Fluent (C1)
 
 Service and Engagement
 ======
