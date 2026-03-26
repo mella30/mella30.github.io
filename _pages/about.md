@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Reliable Deep Learning for Autonomous Systems"
+title: "Mariella Dreissig"
 author_profile: true
 redirect_from:
   - /about/
